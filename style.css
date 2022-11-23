@@ -1,0 +1,24 @@
+*{
+            margin: 0;
+            padding: 0;
+            /* box-sizing: border-box; */
+        }
+        main{
+            overflow: hidden;
+            width: 80%;
+            height: 83.2vh;
+            border: 1px solid black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+        }
+        #div{
+            width: 30%;
+             height: auto;
+            margin: auto; border: 1px solid black;
+        }
+        img{
+            max-width: 100%;
+            height: auto;
+        }
