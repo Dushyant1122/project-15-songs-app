@@ -68,7 +68,7 @@ let allMusic = [
       name: "BYE",
       artist: "Dino James",
       img: "music-9",
-      src: "music-9"
+      src: "music-10"
     },
     {
       name: "Zindgi",
