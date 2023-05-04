@@ -66,32 +66,32 @@ let allMusic = [
     },
     {
       name: "BYE",
-      artist: "Dino James",
-      img: "music-9",
+      artist: "Aditya Bhardwaj",
+      img: "music-10",
       src: "music-10"
     },
     {
       name: "Zindgi",
-      artist: "Dino James",
-      img: "music-9",
+      artist: "Shavi Vik",
+      img: "music-11",
       src: "music-11"
     },
     {
       name: "Yalgar",
       artist: "Carry Minati",
-      img: "music-9",
+      img: "music-12",
       src: "music-12"
     },
     {
       name: "Yadav Brand",
-      artist: "Dino James",
-      img: "music-9",
+      artist: "Sunny Yadhuvanshi",
+      img: "music-13",
       src: "music-13"
     },
     {
       name: "Pyar",
       artist: "Abdu",
-      img: "music-9",
+      img: "music-14",
       src: "music-14"
     },
     // like this paste it and remember to give comma after ending of this bracket }
